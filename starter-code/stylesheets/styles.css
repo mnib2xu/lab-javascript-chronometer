@@ -52,7 +52,9 @@ body {
   font-size: 36px;
   margin-top: -15px;
   position: absolute;
+  top: 115px;
   right: 20px;
+  justify-content: flex-end;
 }
 
 .leash {
